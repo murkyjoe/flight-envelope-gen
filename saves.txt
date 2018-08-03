@@ -1,0 +1,8 @@
+nASK13n  'w430w'  'a17.5a'  'c34c'  's108s'
+nCS Astirn  'w350w'  'a12.4a'  'c32c'  's135s'
+nDG1000Sn  'w630w'  'a17.5a'  'c34c'  's146s'
+nSkylark 4n  'w376w'  'a16.07a'  'c32c'  's123s'
+nCessna 172n  'w967w'  'a16.2a'  'c47c'  's163s'
+nASW20BLn  'w345w'  'a11.05a'  'c35c'  's151s'
+nSpace Shuttlen  'w90000w'  'a250.0a'  'c85c'  's250s'
+nFoxn  'w535w'  'a12.3a'  'c46c'  's152s'

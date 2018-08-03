@@ -1,0 +1,20 @@
+
+/* 
+    Created on : 02-Dec-2015, 16:31:07
+    Author     : joseph
+*/
+
+ 
+.default-color0.chart-series-area-line { -fx-stroke: #228B2230; }
+.default-color1.chart-series-area-line { -fx-stroke: #008000; }
+.default-color2.chart-series-area-line { -fx-stroke: #FFFF00; }
+.default-color3.chart-series-area-line { -fx-stroke: #FFFF00; }
+.default-color4.chart-series-area-line { -fx-stroke: #FF0000; }
+.default-color5.chart-series-area-line { -fx-stroke: #FF0000; }
+ 
+.default-color0.chart-series-area-fill { -fx-fill: #7FFF0030; }
+.default-color1.chart-series-area-fill { -fx-fill: #228B2230; }
+.default-color2.chart-series-area-fill { -fx-fill: #FFFF0030; }
+.default-color3.chart-series-area-fill { -fx-fill: #FFFF0030; }
+.default-color4.chart-series-area-fill { -fx-fill: #FF000030; }
+.default-color5.chart-series-area-fill { -fx-fill: #FF000030; }

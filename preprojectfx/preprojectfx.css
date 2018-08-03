@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24-Jun-2015, 22:31:17
+    Author     : joseph
+*/
+
+.root {
+     -fx-background-color:aliceblue
+}
+
+.grid {
+     -fx-background-color:brown
+}
+
+
+
+
+
+.label {
+    -fx-font-size: 12px;
+    -fx-font-weight: bold;
+    -fx-text-fill: #000;
+    -fx-effect: dropshadow( bauhaus , rgba(255,0,0,0.5) , 0,0,0,1 );
+    
+}
+
+.grid {
+    -fx-background-color: white;
+    -fx-background-radius: 5.0;
+    -fx-background-insets: 0.0 5.0 0.0 5.0;
+    -fx-padding: 10;
+    -fx-hgap: 10;
+    -fx-vgap: 10;
+}
